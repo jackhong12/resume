@@ -1,6 +1,6 @@
 # Resume
 
-This repo is based on [Awesome-CV](https://github.com/posquit0/Awesome-CV)
+This repo is based on [Awesome-CV](https://github.com/posquit0/Awesome-CV).
 
 <details>
 <summary>Setting</summary>
